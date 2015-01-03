@@ -1,0 +1,23 @@
+body
+{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+	background-color: #3767AC;
+    background-image: url("../img/background_repeat.png");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    
+    padding: 16px;
+    /*CORREGIR CUANTO ANTES POR UN EM*/
+}
+#content{
+    /*background-image: url("../img/high_ground_studios_logo.png");
+    background-position: center;
+    background-repeat:no-repeat;
+    max-height: 800px;
+    width: 100%;*/
+    text-align: center;
+}
+#content h2{
+    font-family: 'Quicksand', sans-serif;
+}
